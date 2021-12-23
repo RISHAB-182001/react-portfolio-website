@@ -6,4 +6,5 @@ TO ACCESS THE RESUME:
 -> npm start
 
 The resume will open on localhost:3000
+
 email: rishab182001@gmail.com
