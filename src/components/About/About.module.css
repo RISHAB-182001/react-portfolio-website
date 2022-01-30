@@ -1,0 +1,37 @@
+.AboutMe {
+    background-color: black;
+    padding-bottom: 5%;
+}
+
+.AboutMe .Container {
+    display: flex;
+}
+
+.AboutMe .Container .Photo .MyFaceEdited {
+    /* height: 50px;
+    width: 100px; */
+    width:80%;
+    border-radius: 10%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.AboutMe .Container .Text {
+    width: 47%;
+    margin-left: 3%;
+    justify-content: center;
+    margin-top:5%;/* Adjusts the contents to the same position where my picture is present */
+}
+
+.AboutMe .Container .Text h2{
+    font-weight: 900;
+    font-size: 46px;
+}
+
+.AboutMe .Container .Photo {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
