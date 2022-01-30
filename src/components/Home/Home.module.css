@@ -1,0 +1,40 @@
+.Home {
+    background: purple;
+    background: rgb(54, 30, 70);
+    background: linear-gradient(90deg, rgba(54, 30, 70, 1) 66%, rgba(140, 28, 209, 1) 95%);
+    display: flex;
+    height: 630px;
+    padding-top: 80px;
+    position: relative;
+}
+
+.Home .Container {
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    color: white;
+}
+
+.Home .Container .Hello {
+    font-size: 63px;
+}
+
+.Home .Container h1 {
+    margin: 0;
+}
+
+.Home .binaryworld {
+    widthz: 70%;
+    position: absolute;
+    right: 10%;
+    top: 20%;
+    z-index: 0;
+}
+
+.Home .vector {
+    height: 40%;
+    position: absolute;
+    bottom: 0;
+    left: 2%;
+    top: 100;
+}
