@@ -1,0 +1,21 @@
+.Container {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2%;
+}
+
+
+/*Positioning the horizontal rule*/
+
+.Container hr {
+    position: absolute;
+    left: 0;
+    width: 12vh;
+    border: 1px solid #8C1CD1;
+}
+
+.Container h1 {
+    color: white;
+}
